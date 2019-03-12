@@ -1,6 +1,6 @@
 # Demo
 
-[BMI]
+[BMI](https://musavy.github.io/BMI/.)
 
 # Technologies
 
